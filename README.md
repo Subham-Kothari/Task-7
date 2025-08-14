@@ -1,4 +1,4 @@
-# 🖼 Image Resizer Tool – Python + Pillow
+# Image Resizer Tool – Python + Pillow
 
 A Python script to **resize images in bulk** using the **Pillow** library.  
 This tool reads all images from a source folder, resizes them to given dimensions, and saves them into a target folder.  
@@ -6,7 +6,7 @@ You can optionally convert the images to another format (JPEG, PNG, etc.).
 
 ---
 
-## 🚀 Features
+## Features
 
 - Resize all images in a folder
 - Maintain original format or convert to another format
@@ -16,12 +16,9 @@ You can optionally convert the images to another format (JPEG, PNG, etc.).
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **Pillow**
 
 ---
-
-## 📂 Project Structure
-
